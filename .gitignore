@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+conf/
+conf/config.yaml
+conf/opendata-project-a8dc94a9b142.json
+out
+gen
